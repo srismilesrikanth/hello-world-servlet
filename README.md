@@ -4,3 +4,4 @@ srikanth devops
 today is friday 
 aws and devops teaching
 01/07/2021------->friday
+new one hello-world-servlet
