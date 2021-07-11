@@ -5,4 +5,5 @@ today is friday
 aws and devops teaching
 01/07/2021------->friday
 hello-world-servlet
-chaitanya world 
+chaitanya world
+10/07/2021 
